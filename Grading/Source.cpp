@@ -12,4 +12,5 @@ int main()
 		else if (x <= 100) printf("Grade A");
 	}
 	else printf("Error");
+	return 0;
 }
